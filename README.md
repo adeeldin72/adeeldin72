@@ -5,10 +5,10 @@
 
 
 <p align="center">
-  Passionate web developer from Toronto, ON, able to design and build attractive, responsive, and accessible websites following best practices. Sometimes I like to design things.
+  Passionate web developer from Toronto, ON, able to design and build attractive, responsive, and accessible websites.
   
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+web+developer.;Sometimes+I+like+to+design+things.+" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Always+learning+something+new.;Sometimes+I+like+to+design+things.+" />
 </p>
   
 - 🔭 I’m currently working on some stuff I think is cool
