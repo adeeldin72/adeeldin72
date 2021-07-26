@@ -5,23 +5,22 @@
 
 
 <p align="center">
-  Passionate web developer from Toronto, ON, able to design and build attractive, responsive, and accessible websites.
+  Passionate web developer from <img src="https://camo.githubusercontent.com/93381a05450a062f45eca1387507f137128eae742d76de5f1761c43c17df5f2e/68747470733a2f2f7374617469632e647763646e2e6e65742f6373732f666c61672d69636f6e732f666c6167732f3478332f63612e737667" width="20" /> Toronto, ON, able to design and build attractive, responsive, and accessible websites.
   
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?lines=Always+learning+something+new.;Sometimes+I+like+to+design+things.+" />
 </p>
   
-- 🔭 I’m currently working on some stuff I think is cool
-- 🌱 I’m currently learning vue.js <a href="https://www.w3schools.com">Visit W3Schools.com!</a>
-- 👯 I’m looking to collaborate on cool stuff contact me at <a href="https://www.adeeldin.com/">adeeldin.com</a>
-- 🤔 I’m looking for help with game developlment, specfically 2D development
-- 💬 Ask me about the game I am working on!
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/adeeldin/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
-- 😄 Pronouns: He/Him
-- 🍦 Fun fact: My favourite ice cream flavour is cotton candy 
+ 🔭 &nbsp; I’m currently working on some stuff I think is cool </br>
+ 🌱 &nbsp; I’m currently learning vue.js</br>
+ 👯 &nbsp; I’m looking to collaborate on cool stuff contact me at <a href="https://www.adeeldin.com/">adeeldin.com</a></br>
+🤔 &nbsp; I’m looking for help with game developlment, specfically 2D development</br>
+💬 &nbsp; Ask me about the game I am working on!</br>
+📫 &nbsp; How to reach me: &nbsp; <a href="https://www.linkedin.com/in/adeeldin/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> </br>
+ 😄 &nbsp; Pronouns: He/Him</br>
+🍦 &nbsp; Fun fact: My favourite ice cream flavour is cotton candy </br>
 
 <h2>Languages and Tools</h2>
-Current:</br>
 
 | Current|Learning|Previous Experience|
 | -----------|-----------|-----------|
