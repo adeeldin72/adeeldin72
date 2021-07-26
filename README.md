@@ -20,6 +20,8 @@
  😄 &nbsp; Pronouns: He/Him</br>
 🍦 &nbsp; Fun fact: My favourite ice cream flavour is cotton candy </br>
 
+![Adeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=adeeldin72&show_icons=true)
+
 <h2>Languages and Tools</h2>
 
 | Current|Learning|Previous Experience|
@@ -33,6 +35,7 @@
 |  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|
 |![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)|
 |![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)|
+
 
 
 ### Heres a cool snake: 
