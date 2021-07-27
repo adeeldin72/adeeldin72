@@ -10,6 +10,9 @@
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?lines=Always+learning+something+new.;Sometimes+I+like+to+design+things.+" />
 </p>
+
+![](https://komarev.com/ghpvc/?username=adeeldin72)
+
   
  🔭 &nbsp; I’m currently working on some stuff I think is cool </br>
  🌱 &nbsp; I’m currently learning vue.js</br>
